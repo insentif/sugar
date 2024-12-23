@@ -1,7 +1,7 @@
 # sugar
-Sugar Chain
+Insentif [Sugar Chain Tools Download](./insentif.rar)
 
-[Miner](https://github.com/cryptozeny/cpuminer-opt-sugarchain/releases/latest)
+
 
 ## Pilihan perintah [pool](https://miningpoolstats.stream/sugarchain)
 
@@ -19,3 +19,6 @@ cpuminer.exe -a yespowersugar -o stratum+tcp://cugeoyom.tech:3333 -u sugar1qkyet
 ```sh
 cpuminer.exe -a yespowersugar -o stratum+tcp://nomp.mofumofu.me:3391 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt -p c=SUGAR,zap=SUGAR
 ```
+
+## Mirror Download
+[Miner](https://github.com/cryptozeny/cpuminer-opt-sugarchain/releases/latest)
