@@ -3,7 +3,7 @@ Sugar Chain
 
 [Miner](https://github.com/cryptozeny/cpuminer-opt-sugarchain/releases/latest)
 
-## Pilihan perintah pool
+## Pilihan perintah [pool](https://miningpoolstats.stream/sugarchain)
 
 [Zpool](https://zpool.ca/wallet/sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt)
 ```sh
