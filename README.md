@@ -1,5 +1,5 @@
 # Presensi sugar
-Untuk menjalankan presensi insentif bellcoin maka tata cara yang dilakukan:
+Untuk menjalankan presensi insentif sugar maka tata cara yang dilakukan:
 1. Unduh dulu [tools disini](https://github.com/cpu-pool/cpuminer-opt-yespowersugar-sugarchain/releases)
 2. Lakukan edit salah satu file bat yang disana misal edit file start_mining_sugarchain.bat ganti isinya dengan ini:
    ```bat
