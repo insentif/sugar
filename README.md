@@ -3,6 +3,11 @@ Sugar Chain
 
 [Miner](https://github.com/cryptozeny/cpuminer-opt-sugarchain/releases/latest)
 
-```bat
-./cpuminer -a sugarchain -o stratum+tcp://yespowerSUGAR.sea.mine.zpool.ca:6241 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt -p c=SUGAR,zap=SUGAR
+Zpool
+```sh
+cpuminer.exe -a yespowersugar -o stratum+tcp://yespowerSUGAR.sea.mine.zpool.ca:6241 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt -p c=SUGAR,zap=SUGAR
+```
+[cugeoyom](http://cugeoyom.tech:8080/workers/sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt)
+```sh
+cpuminer.exe -a yespowersugar -o stratum+tcp://cugeoyom.tech:3333 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt -p c=SUGAR,zap=SUGAR
 ```
