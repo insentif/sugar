@@ -14,3 +14,8 @@ cpuminer.exe -a yespowersugar -o stratum+tcp://yespowerSUGAR.sea.mine.zpool.ca:6
 ```sh
 cpuminer.exe -a yespowersugar -o stratum+tcp://cugeoyom.tech:3333 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt -p c=SUGAR,zap=SUGAR
 ```
+
+[mofumofu]()
+```sh
+cpuminer.exe -a yespowersugar -o stratum+tcp://nomp.mofumofu.me:3391 -u sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt -p c=SUGAR,zap=SUGAR
+```
